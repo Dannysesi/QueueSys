@@ -21,3 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     # path('', )
 ]
+
+#media integration with cloudinary 
